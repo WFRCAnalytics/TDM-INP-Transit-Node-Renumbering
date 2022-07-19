@@ -1,0 +1,12 @@
+LIN File Notes - Suzie & Callie - January, 3, 2019
+
+wfrc_sl_brt_2024.lin
+	Added 900So, 200So_2, FthlDr2100
+	
+wfrc_sl_lcl_2024.lin
+	Left in S9 for now
+	Commented out S2 as redundant service to 200So_2
+	Commented out S21 as redundant service to FthlDr2100
+
+wfrc_og_lcl_2024.lin
+	Commented out O603 as redundant to RWSU_S

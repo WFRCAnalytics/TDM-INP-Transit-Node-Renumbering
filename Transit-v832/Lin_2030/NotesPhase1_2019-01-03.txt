@@ -1,0 +1,17 @@
+LIN File Notes - Suzie & Callie - January, 3, 2019
+
+wfrc_sl_brt_2030
+	Commented out BRT2100S_S as it is Lakepark in Unfunded
+	Commented out 1700S0 as it is in Phase III
+	Commented out 1300So as it is Unfunded
+	Added a speed factor to FthlDr2100 to include the BRT section on Foothill Dr
+
+wfrc_sl_lcl_2030
+	Commented out S9 as redundant service to 900So
+	Commented out S2 as redundant service to 200So_2
+	Commented out S21 as redundant service to FthlDr2100
+	Commented out O603 as redundant to RWSU_S
+	Commented out S200 as redundant to StGrid_2
+	Commented out S205 as redundant to 500E_2
+	Commented out S209 as redundant to 900E_2
+	Commented out S33 as redudnant to BRT3533_Q
