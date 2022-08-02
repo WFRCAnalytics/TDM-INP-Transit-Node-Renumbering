@@ -1,0 +1,14 @@
+;GENERAL HAND-CODED DRIVE ACCESS LINKS
+;
+;   MODE 23 - KNR
+;   MODE 24 - local bus (for mode 4)
+;   MODE 25 - BRT I (for mode 5)
+;   MODE 26 - express bus (for mode 6)
+;   MODE 27 - LRT (for mode 7)
+;   MODE 28 - CRT (for mode 8)
+;   MODE 29 - BRT III (for mode 9)
+;
+;   example syntax: NT  LEG=534-4056  MODE=27  DIST=20.26  SPEED=57.5  ONEWAY=T
+;       where, DIST is in 100ths of mile & speed in mph
+
+NT  LEG=1-1, MODE=27, DIST=1.00, SPEED=25, ONEWAY=F    ;dummy link (need at least 1 to keep from crashing)

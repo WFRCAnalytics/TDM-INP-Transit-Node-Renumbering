@@ -1,0 +1,9 @@
+;SCENARIO-SPECIFIC HAND-CODED WALK ACCESS LINKS
+;
+;   MODE 12 - Walk Access Links
+;
+;   example syntax: NT  LEG=37-20207, MODE=12, DIST=0.40, SPEED=2.5, ONEWAY=F
+;       where DIST is in 100ths of mile & speed in mph
+
+
+NT  LEG=1-1, MODE=12, DIST=1.00, SPEED=2.5, ONEWAY=F    ;dummy link (need at least 1 to keep from crashing)
